@@ -30,22 +30,27 @@
       <div class="corpo">
         <h1>Sobre Nosso Jogo</h1>
             <p>
-                "Mata Mosquito" é um jogo point and click, utilizando a linguagem C# e o editor
-                de código-fonte VS Code. O jogo tem como objetivo principal matar todos os mosquitos
-                que aparecem na tela antes que eles te piquem.
-
-                A mecânica do jogo é simples: o jogador precisa clicar no mosquito para matá-lo.
-                Cada mosquito morto dá pontos ao jogador e, à medida que o tempo passa, a velocidade
-                dos mosquitos aumenta, tornando o jogo mais desafiador. Além disso, há a possibilidade
-                de aparecerem mosquitos mais fortes, que exigem mais cliques para serem eliminados.
                 
+                "Desafio Pega  mais Fruta"  um jogo 2D cheio de diversão e aventuras! Junte-se ao adorável Um sapo ninja em uma emocionante jornada muito dificiu. 
+            </p>  <br><br>
+                <p>Neste jogo, você irá explorar um colorido mundo submerso, repleto de desafios e personagen encantador.
+                 Ajude O ninja a superar obstáculos, coletar frutas e desvendar segredos enquanto tenta pegar o troféu. Com controles intuitivos, você poderá correr, saltar e desafiar a gravidade
+                </p><br><br>
+                <p>
                 O jogo é bem divertido e viciante, com uma jogabilidade intuitiva e desafios crescentes.
-                É uma ótima opção para quem quer se divertir e desafiar suas habilidades de pontaria e 
-                rapidez. Além disso, é um excelente exemplo de como a linguagem C# e o VS Code podem ser 
+                É uma ótima opção para quem quer se divertir e desafiar suas habilidades  e 
+                rapidez. 
+                </p> <br><br>
+                <p>
+                Além disso, é um excelente exemplo de como a usar a linguagem GDscript e a ferraenta Godot podem ser 
                 usados para desenvolver jogos simples e divertidos.  
-            </p>
+                </p><br><br>
         
       </div>
+
+      <img src="Img1.PNG" class="img1">
+      <img src="img2.PNG" class="img2">
+      <img src="img4.PNG" class="img3">
     
 </body>
 </html>

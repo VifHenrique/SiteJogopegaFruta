@@ -19,9 +19,12 @@
             
         </ul>
 	</header>
-	
-	
-
+	<div class="corpo">
+	<p>
+		Faça seu cadastro para receber novidades  
+		sobre esse jogo e sobre novos jogos feito pela nossa equipe!!!
+	</p>
+    </div>
 <div  id="conteiner">
 	<form method="post">
 	

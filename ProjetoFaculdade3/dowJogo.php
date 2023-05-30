@@ -28,7 +28,8 @@
         </ul>
             <div class="corpo">
                        <p>
-                        Baixa o jogo no clicando no botão ao lado, ele te levara ao repositorio do jogo
+                        Para Baixa o jogo é só clicar no botão a baixo, <br>
+                        ele te levara ao repositorio do jogo
                        </p>
                     
 
@@ -37,6 +38,6 @@
         
     </header>
    
-    <div id="container"></div>  
+     
 </body>
 </html>

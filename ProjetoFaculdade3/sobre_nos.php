@@ -33,7 +33,7 @@
              </h1>
 
             <p>
-                Projeto United idealizado por Kauan teve começo dia 06/03/23 , contando com membros altamente capacitados e comprometidos na criação e produção do projeto , a ideia do jogo veio de nosso colega Victor , que sugeriu fazermos um "point and click" e junto disso o insight "Mata Mosquito" , o site foi desenvolvido por Victor e Leonardo Pinheiro , contando com Guilherme na revisão do script. <br><br><br>
+                Projeto United idealizado por Kauan teve começo dia 06/03/23 , contando com membros altamente capacitados e comprometidos na criação e produção do projeto , a ideia do jogo veio de nosso colega Victor , que sugeriu fazermos um Muito legal e junto disso o insight "Pega Fruta" , o site do jogo foi desenvolvido por Victor e Leonardo Pinheiro , contando com Guilherme na revisão do script. <br><br><br>
             </p>
 
             <p>
